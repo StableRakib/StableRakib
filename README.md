@@ -1,6 +1,6 @@
-### Hi, I'm Rakib Ibn Abdullah — StableRakib 👋
+### Hi, I'm Rakibuzzaman — StableRakib 👋
 
-> I build stable systems — servers and human bodies.
+> I build stable systems — servers and humans.
 
 **Founder:** StableStack Systems (IT) | Healing With Rakib (Hijama, Homeo, Ayurveda, Panchakarma)
 
@@ -9,18 +9,16 @@
 #### 🔭 What I do
 - Securing & speeding up Linux web servers (LiteSpeed / Nginx / Apache)
 - Website speed optimization + security hardening 
-- Building `stablerakib.com` — my personal systems lab
 
 #### 🌱 Currently learning
 - Advanced Networking & Cyber Security
 - Ayurvedic Medicine & Surgery (DAMS) — third year
 
 #### 💬 Ask me about
-`Linux` `LiteSpeed` `Nginx` `cPanel / WHM` `Website Speed` `Security Headers` `HTML5` `CSS3` `Bootstrap` `Ruqyah` `Hijama` `Gut Health`
+`Linux` `LiteSpeed` `Nginx` `cPanel / WHM` `Website Speed` `Security Headers` `HTML5` `CSS3` `Bootstrap` `Hijama` `Homeopathy` `Ayurveda` `Ruqyah`
 
 #### 📫 Reach me
-- Email: `stablerakib@gmail.com` (Proton - secure)
-- Backup: `stablerakibHQ@gmail.com`
+- Email: `stablerakib@gmail.com`
 - Website: https://stablerakib.github.io/
 
 #### ⚡ Fun fact

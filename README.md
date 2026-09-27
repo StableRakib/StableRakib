@@ -1,24 +1,31 @@
-### Hi there 👋
+### Hi, I'm Rakib Ibn Abdullah — StableRakib 👋
 
-- 🔭 I’m currently working full time at a startup and also doing freelancing.
-- 🌱 I’m currently learning JavaScript & Networking.
-<!-- 👯 I’m looking to collaborate on ...
-**- 🤔 I’m looking for help with ... -->
-- 💬 Ask me about HTML5, CSS3, Bootstrap, Linux, Linux Web/Multimedia Servers, Website Speed Optimization, Basic Security Practices etc.
-- 📫 How to reach me: Shoot an email to rakibuzzaman47@gmail.com.
-- 😄 Pronouns: Watcher 😎
-- ⚡ Fun fact: I'm a student of Sufism & Ruqyah 👻
-<!--
-**Rakibuzzaman47/rakibuzzaman47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> I build stable systems — servers and human bodies.
 
-Here are some ideas to get you started:
+**Founder:** StableStack Systems (IT) | Healing With Rakib (Hijama, Homeo, Ayurveda, Panchakarma)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning J
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+#### 🔭 What I do
+- Securing & speeding up Linux web servers (LiteSpeed / Nginx / Apache)
+- Website speed optimization + basic hardening for RMG & US clients
+- Building `stablerakib.com` — my personal systems lab
+
+#### 🌱 Currently learning
+- Advanced Networking & Cyber Security
+- JavaScript (deep) + Performance Engineering
+- Ayurvedic Medicine & Surgery (DAMS) — final year
+
+#### 💬 Ask me about
+`Linux` `LiteSpeed` `Nginx` `cPanel / WHM` `Website Speed` `Security Headers` `HTML5` `CSS3` `Bootstrap` `Ruqyah` `Hijama` `Gut Health`
+
+#### 📫 Reach me
+- Email: `rakib@stablerakib.com` (Proton - secure)
+- Backup: `stablerakibHQ@gmail.com`
+- Website: [stablerakib.com](https://stablerakib.com) | [StableStack.systems](https://stablestack.systems) | [Healing With Rakib](https://healingwithrakib.com)
+
+#### ⚡ Fun fact
+Student of Ruqyah + I fix servers with same mindset I fix gut issues — find the root cause, not just the symptom.
+
+---
+`StableRakib` — stable by design.

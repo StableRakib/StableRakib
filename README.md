@@ -8,21 +8,20 @@
 
 #### 🔭 What I do
 - Securing & speeding up Linux web servers (LiteSpeed / Nginx / Apache)
-- Website speed optimization + basic hardening for RMG & US clients
+- Website speed optimization + security hardening 
 - Building `stablerakib.com` — my personal systems lab
 
 #### 🌱 Currently learning
 - Advanced Networking & Cyber Security
-- JavaScript (deep) + Performance Engineering
-- Ayurvedic Medicine & Surgery (DAMS) — final year
+- Ayurvedic Medicine & Surgery (DAMS) — third year
 
 #### 💬 Ask me about
 `Linux` `LiteSpeed` `Nginx` `cPanel / WHM` `Website Speed` `Security Headers` `HTML5` `CSS3` `Bootstrap` `Ruqyah` `Hijama` `Gut Health`
 
 #### 📫 Reach me
-- Email: `rakib@stablerakib.com` (Proton - secure)
+- Email: `stablerakib@gmail.com` (Proton - secure)
 - Backup: `stablerakibHQ@gmail.com`
-- Website: [stablerakib.com](https://stablerakib.com) | [StableStack.systems](https://stablestack.systems) | [Healing With Rakib](https://healingwithrakib.com)
+- Website: https://stablerakib.github.io/
 
 #### ⚡ Fun fact
 Student of Ruqyah + I fix servers with same mindset I fix gut issues — find the root cause, not just the symptom.
